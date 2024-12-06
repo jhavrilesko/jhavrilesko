@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jake Havrilesko</h1>
 <h3 align="center">A computer science student from Pittsburgh, PA</h3>
 
-- 🔭 I’m currently working on **Sun Tracking Solar Panel**
+- 🔭 I’m currently working on **Weather Data Logger**
 
 - 🌱 I’m currently learning **SQL, Qubitro**
 
